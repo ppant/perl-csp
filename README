@@ -1,5 +1,5 @@
 ########################################################### README ###################################################
 
 In this project I am trying to implement Constraint Satisfaction Problem (CSP) algorithms. Initally I am working on Backtracking, Backjumping and Backmarking alogorithms.
-I will try to solve some of the logic puzzle like N-Queen and Zebra problem.
+I will try to solve some of the logic puzzle like N-Queen and Zebra problem and later will try to introduce some asynchronous backtracking techniques for solving some real time scheduling problems.
 Will soon push some Perl code.
