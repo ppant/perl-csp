@@ -3,6 +3,10 @@ use 5.010;
 use Moose;
 use strict;
 use warnings;
+use Time::ParseDate;
+use File::Copy;
+use URI::Escape;
+use HTML::Entities;
 
 our $VERSION = '0.01';
 
