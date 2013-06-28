@@ -18,8 +18,8 @@ sub new {
 
 =head1 CSP
 
-=head1 Pradeep Pant	
+=head1 Pradeep K. Pant	
 
-Copyright 2013
+Copyright 2012-13, All rights reserved.
 
 =cut
