@@ -86,7 +86,7 @@ Perhaps a little code snippet.
 
 =head1 AUTHOR
 
-Pradeep K. Pant, C<< <pantpradeep at gmail.com> >>
+Pradeep K. Pant, C<< <ppant at cpan.org> >>
 
 =head1 BUGS
 Please report any bugs or feature requests to C<bug-csp at rt.cpan.org>, or through
@@ -131,7 +131,7 @@ L<http://search.cpan.org/dist/CSP/>
 
 =head1 LICENSE AND COPYRIGHT
 
-Copyright 2013 Pradeep K. Pant.
+Copyright 2014 Pradeep K. Pant.
 
 This program is free software; you can redistribute it and/or modify it
 under the terms of the the Artistic License (2.0). You may obtain a
