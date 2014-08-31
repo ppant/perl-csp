@@ -2,6 +2,8 @@
 package CSP;
 use 5.010;
 use Moose;
+use PDL;
+use PDL::Graphics::Simple;
 use strict;
 use warnings FATAL => 'all';
 use carp;
